@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\MathCore.Api",
-    "\\MathCore.Api\\Controllers"
+    "\\MathCore.Api\\Services"
   ],
-  "SelectedNode": "\\MathCore.Api\\Controllers\\MathController.cs",
+  "SelectedNode": "\\MathCore.Api\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
