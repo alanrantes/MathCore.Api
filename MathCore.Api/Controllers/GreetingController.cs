@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing.Template;
-using RestWithASPNET10Alan.Model;
+using MathCore.Api.Model;
 
-namespace RestWithASPNET10Alan.Controllers
+namespace MathCore.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

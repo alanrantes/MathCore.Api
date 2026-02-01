@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RestWithASPNET10Alan.Services;
-using RestWithASPNET10Alan.Utils;
+using MathCore.Api.Services;
+using MathCore.Api.Utils;
 
-namespace RestWithASPNET10Alan.Controllers
+namespace MathCore.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

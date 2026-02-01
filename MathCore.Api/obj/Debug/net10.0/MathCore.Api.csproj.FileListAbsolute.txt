@@ -1,0 +1,7 @@
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.AssemblyInfoInputs.cache
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.AssemblyInfo.cs
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.csproj.CoreCompileInputs.cache
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\MathCore.Api\MathCore.Api\obj\Debug\net10.0\MathCore.Api.sourcelink.json

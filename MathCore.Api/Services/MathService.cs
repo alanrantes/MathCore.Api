@@ -1,4 +1,4 @@
-﻿namespace RestWithASPNET10Alan.Services
+﻿namespace MathCore.Api.Services
 {
     public class MathService
     {

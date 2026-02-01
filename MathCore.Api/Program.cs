@@ -1,4 +1,4 @@
-using RestWithASPNET10Alan.Services;
+using MathCore.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
