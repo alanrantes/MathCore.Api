@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathCore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec387ae0c70676ac4ddbb32eb3cc7800962416a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8136526864598d919d3fd5dce4f4f52d1104663d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathCore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathCore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

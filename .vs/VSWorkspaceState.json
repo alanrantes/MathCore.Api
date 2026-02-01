@@ -4,6 +4,6 @@
     "\\MathCore.Api",
     "\\MathCore.Api\\Controllers"
   ],
-  "SelectedNode": "\\MathCore.Api\\Controllers\\GreetingController.cs",
+  "SelectedNode": "\\MathCore.Api\\Controllers\\MathController.cs",
   "PreviewInSolutionExplorer": false
 }
