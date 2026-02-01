@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MathCore.Api",
+    "\\MathCore.Api\\Controllers"
   ],
+  "SelectedNode": "\\MathCore.Api\\Controllers\\GreetingController.cs",
   "PreviewInSolutionExplorer": false
 }
